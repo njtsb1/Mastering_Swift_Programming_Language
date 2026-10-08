@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trucks & Flavors - Brazil</title>
+    <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-container">
+            <h1 class="logo" data-i18n="logoTitle">BR Motorsport & Food</h1>
+            
+            <nav class="nav-controls" aria-label="Preferences Menu">
+                <!-- Theme Toggle -->
+                <button id="theme-toggle" class="control-btn" aria-live="polite">
+                    <span id="theme-icon" aria-hidden="true">🌙</span>
+                    <span class="sr-only" id="theme-text">Switch to light mode</span>
+                </button>
+
+                <!-- Language Selector -->
+                <div class="lang-selector-wrapper">
+                    <label for="lang-select" class="sr-only">Choose Language</label>
+                    <select id="lang-select" class="lang-select">
+                        <option value="en">English</option>
+                        <option value="pt">Português</option>
+                        <option value="es">Español</option>
+                    </select>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <!-- Hero Section -->
+        <section class="hero-section" aria-labelledby="hero-heading">
+            <div class="section-container">
+                <h2 id="hero-heading" data-i18n="heroTitle">The Best of Brazilian Passion</h2>
+                <p data-i18n="heroDesc">From high-speed heavy trucks on the racetracks to the most iconic comfort foods in the world.</p>
+            </div>
+        </section>
+
+        <!-- Drivers Grid Section -->
+        <section class="grid-section" aria-labelledby="drivers-heading">
+            <div class="section-container">
+                <h3 id="drivers-heading" class="section-title" data-i18n="sectionDrivers">Copa Truck & History</h3>
+                <div id="drivers-grid" class="card-grid">
+                    <!-- Dynamic Content via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Trucks Grid Section -->
+        <section class="grid-section" aria-labelledby="trucks-heading">
+            <div class="section-container">
+                <h3 id="trucks-heading" class="section-title" data-i18n="sectionTrucks">Copa Truck & History</h3>
+                <div id="trucks-grid" class="card-grid">
+                    <!-- Dynamic Content via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Foods Grid Section -->
+        <section class="grid-section" aria-labelledby="foods-heading" style="margin-top: 3rem;">
+            <div class="section-container">
+                <h3 id="foods-heading" class="section-title" data-i18n="sectionFoods">Traditional Flavors</h3>
+                <div id="foods-grid" class="card-grid">
+                    <!-- Dynamic Content via JS -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2026 BR Motorsport & Food. <span data-i18n="footerText">All rights reserved.</span></p>
+    </footer>
+
+    <script src="./src/script.js"></script>
+</body>
+</html>
