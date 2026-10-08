@@ -1,0 +1,17 @@
+# Xcode Playgrounds Git Ignore Configuration
+# Reference: https://github.com
+
+## User-specific workspace state files
+.metadata
+xcuserdata/
+*.xcuserstate
+
+## Architecture diagnostics and compilation artifacts
+.swiftpm/
+.build/
+DerivedData/
+*.xcresult/
+
+## macOS system files
+.DS_Store
+Thumbs.db
