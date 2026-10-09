@@ -99,7 +99,7 @@ const translations = {
 const driversData = [
     { img: "assets/001_Oswaldo_Drugovich.png", titleKey: "d1", descKey: "d1Sub" },
     { img: "assets/004_FELIPE_GIAFFONE.png", titleKey: "d2", descKey: "d2Sub" },
-    { img: "assets/006_WELLIGTON_Cirino.png", titleKey: "d3", descKey: "d3Sub" },
+    { img: "assets/006_WELLIGTON_CIRINO.png", titleKey: "d3", descKey: "d3Sub" },
     { img: "assets/012_Jorge_Fleck.png", titleKey: "d4", descKey: "d4Sub" },
     { img: "assets/072_Djalma_Fogaça.png", titleKey: "d5", descKey: "d5Sub" },
     { img: "assets/073_LEANDRO_TOTTI.png", titleKey: "d6", descKey: "d6Sub" },
