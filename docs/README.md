@@ -25,4 +25,10 @@ A lightweight, fully responsive web application built with clean semantic **HTML
 1. Open the file `index.html` directly in any modern standard web browser (Chrome, Edge, Firefox, Safari).
 2. Test responsiveness by resizing the browser or viewing via Developer Tools device inspection.
 
+![Motorsports Heroes](assets/Screenshot_driver_web_demo.png)
+
+![Machines & Legends](assets/Screenshot_truck_web_demo.png)
+
+![Traditional Brazilian Flavors](assets/Screenshot_flavors_web_demo.png)
+
 [LICENSE](./LICENSE)
