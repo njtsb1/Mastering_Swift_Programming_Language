@@ -25,9 +25,9 @@ const translations = {
         t5: "072 Ford Cargo 4331", t5Sub: "Robustness and tradition in every race.",
         t6: "019 VW Constellation", t6Sub: "Germany design with top-tier performance.",
         t7: "072 Ford Cargo 4030", t7Sub: "Elegance and power in perfect harmony.",
-        f1: "Chicken Coxinha", f1Sub: "Crispy fried dough filled with savory seasoned chicken.",
-        f2: "Chicken Pastel", f2Sub: "Crisp, golden pastry shell stuffed to perfection.",
-        f3: "Traditional 'Prato Feito' (PF)", f3Sub: "The ultimate daily combo: rice, beans, steak, and egg.",
+        f1: "Chicken Croquette", f1Sub: "Crispy fried dough filled with savory seasoned chicken.",
+        f2: "Chicken Pastry", f2Sub: "Crisp, golden pastry shell stuffed to perfection.",
+        f3: "Traditional 'Set Meal' (PF)", f3Sub: "The ultimate daily combo: rice, beans, steak, and egg.",
         f4: "Brigadier Truffles", f4Sub: "The absolute classic chocolate party sweet.",
         f5: "Condensed Milk Flan", f5Sub: "Silky smooth pudding topped with deep golden caramel sauce."
     },
