@@ -19,8 +19,8 @@ Challenge Checklist:
 
 The workspace is organized into two primary pillars to isolate architectural paradigms:
 
-- **`POO/Desafio-POO.playground`**: Dedicated environment exploring the Object-Oriented Programming (OOP) paradigm.
-- **`POP/Desafio-POP.playground`**: Dedicated environment exploring the modern Protocol-Oriented Programming (POP) paradigm.
+- **`OOP/Challenge-OOP.playground`**: Dedicated environment exploring the Object-Oriented Programming (OOP) paradigm.
+- **`POP/Challenge-POP.playground`**: Dedicated environment exploring the modern Protocol-Oriented Programming (POP) paradigm.
 
 ## Technical Challenge Checklist
 
